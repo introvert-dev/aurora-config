@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 1,
+  "minVersionCode": 0,
   "latestVersionCode": 2,
   "message": "",
-  "updateMessage": "This build has been old. Install the new version.",
+  "updateMessage": "",
   "updateUrl": "www.github.com"
 }
