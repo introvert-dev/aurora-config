@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 0,
-  "latestVersionCode": 0,
-  "message": "",
+  "minVersionCode": 2,
+  "latestVersionCode": 2,
+  "message": "This build has been retired. Install the new version.",
   "updateMessage": "",
   "updateUrl": ""
 }
