@@ -1,7 +1,7 @@
 {
   "minVersionCode": 2,
   "latestVersionCode": 2,
-  "message": "This build has been retired. Install the new version.",
-  "updateMessage": "",
-  "updateUrl": ""
+  "message": "",
+  "updateMessage": "This build has been retired. Install the new version.",
+  "updateUrl": "www.facebook.com"
 }
